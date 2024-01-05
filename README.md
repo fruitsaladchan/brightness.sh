@@ -2,7 +2,7 @@
 
 a script used to change brightness using light and dunst to send a notification
 
-Dependencies 
+***Dependencies 
 
 * "papirus-dark" for icons
 *  "light" to control brightness
