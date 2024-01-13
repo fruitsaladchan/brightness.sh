@@ -16,6 +16,11 @@ a script used to change brightness using light and dunst to send a notification
 * sh brightness.sh up 
 * sh brightness.sh down
 
+# for i3wm#
+
+* bindsym XF86MonBrightnessUp exec --no-startup-id ~/location/brightness.sh up
+* bindsym XF86MonBrightnessDown exec --no-startup-id ~/location/brightness.sh down
+
 # low brightness #
 
 ![brightness](https://github.com/fruitsaladchan/brightness.sh/assets/124645742/33a5c59e-c39b-401e-ac43-94e473b0d32b)
