@@ -10,11 +10,11 @@ a script used to change brightness using light and dunst to send a notification
 
 # usage #
 
-*clone this repo
-*cd brightness.sh
-*chmod +x brightness.sh
-*sh brightness.sh up 
-*sh brightness.sh down
+* clone this repo
+* cd brightness.sh
+* chmod +x brightness.sh
+* sh brightness.sh up 
+* sh brightness.sh down
 
 # low brightness #
 
